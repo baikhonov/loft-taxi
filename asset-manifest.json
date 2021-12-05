@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loft-taxi/static/css/main.a617e044.chunk.css",
+    "main.js": "/loft-taxi/static/js/main.3ac661b8.chunk.js",
+    "main.js.map": "/loft-taxi/static/js/main.3ac661b8.chunk.js.map",
+    "runtime-main.js": "/loft-taxi/static/js/runtime-main.ae7e4b17.js",
+    "runtime-main.js.map": "/loft-taxi/static/js/runtime-main.ae7e4b17.js.map",
+    "static/js/2.d66172aa.chunk.js": "/loft-taxi/static/js/2.d66172aa.chunk.js",
+    "static/js/2.d66172aa.chunk.js.map": "/loft-taxi/static/js/2.d66172aa.chunk.js.map",
+    "static/js/3.77f793b0.chunk.js": "/loft-taxi/static/js/3.77f793b0.chunk.js",
+    "static/js/3.77f793b0.chunk.js.map": "/loft-taxi/static/js/3.77f793b0.chunk.js.map",
+    "index.html": "/loft-taxi/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/loft-taxi/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d66172aa.chunk.js.LICENSE.txt": "/loft-taxi/static/js/2.d66172aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7e4b17.js",
+    "static/js/2.d66172aa.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3ac661b8.chunk.js"
+  ]
+}
